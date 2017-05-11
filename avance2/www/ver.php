@@ -32,7 +32,7 @@ for( $i = 1; $i <= $total_campos; $i ++ )
   <body>
     <br><br>
       <form action='index.php' method='POST'>
-            <input type="button" value="aceptar" onClick="window.location = 'http://localhost/CAMILO%20FIGUEROA/proyectos/avance2/index.php';"> 
+            <input type="button" value="aceptar" onClick="window.location = 'http://localhost/CAMILO%20FIGUEROA/proyectos/avance2/www/index.php';"> 
       </form>
   </body>
 </html>
