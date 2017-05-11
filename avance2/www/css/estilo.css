@@ -1,0 +1,52 @@
+
+/*************************************cajas******************************************/
+#caja{
+  position: fixed;
+  background-color: purple;
+  width: 1500px;
+  top: 360px;
+  left: ;
+  padding: 30px;
+}
+
+/********************************************************/
+#caja1{
+  position: fixed;
+  background-color: blue;
+  width: 1500px;
+  top: 420px;
+  left: ;
+  padding: 30px;
+}
+
+/******************************************************/
+#caja2{
+  position: fixed;
+  background-color: violet;
+  width: 1500px;
+  top: 460px;
+  left: ;
+  padding: 30px;
+}
+
+/******************************************************/
+#caja3{
+  position: fixed;
+  background-color: blue;
+  width: 1500px;
+  top: 100px;
+  left: ;
+  padding: 30px;
+}
+/********************************imagenes********************************/
+
+
+#imagen
+{
+	position: fixed;
+	top: 80px;
+	left: 1300px;
+}
+
+
+
